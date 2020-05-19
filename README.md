@@ -1,4 +1,4 @@
-# Intermediate_ML
+# Intermediate ML
 Kaggle - Intermediate Machine Learning
 
 This respository contains the exercises code from "Kaggle - Intermediate Machine Learning" module.
